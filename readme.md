@@ -10,4 +10,7 @@ El proyecto esta estructurado en partes.
    * Arduino uno + sensor de contacto
    * Arduino uno + luces
 2. Parte Inteligencia Artificial
+   * Edge Impulse (offline)
+   * OpenAI (online)
 3. Estructura
+   * setup
